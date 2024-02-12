@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.form{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+labe, input{
+    width: 400px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+input:hover{
+    border-color: aliceblue;
+}
